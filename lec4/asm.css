@@ -1,0 +1,56 @@
+html {
+    font-size: 14px;
+    font-family: 'Tangerine', sans-serif;
+    background-color: azure;
+}
+
+h1 {
+    text-shadow: 2px 2px #716969;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    margin-top: auto;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+}
+
+header {
+    min-height: 50px;
+    background: lightcyan;
+    text-align: center;
+}
+
+footer {
+    min-height: 50px;
+    background: PapayaWhip;
+    padding: auto;
+    padding-top: 20px;
+    text-align: center;
+}
+
+article {
+    font-size: 18px;
+    line-height: 120%;
+    margin-top: 80px;
+    margin-left: 20%;
+    margin-right: 20%;
+    max-width: 100%;
+    text-align: justify;
+
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+}

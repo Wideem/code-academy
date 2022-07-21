@@ -1,0 +1,21 @@
+html {
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    font-size: 14px;
+}
+
+nav {
+    text-align: right;
+    border: 1px;
+    padding: 10px;
+    background-color: skyblue;
+}
+
+
+#logo {
+    width: 5%;
+    align-self: left;
+}

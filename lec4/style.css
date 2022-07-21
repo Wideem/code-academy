@@ -1,0 +1,30 @@
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+}
+
+.column-3 {
+    flex: 33%;
+    margin: 10px;
+
+}
+
+.big {
+    font-size: 24px;
+}
+
+#logo {
+    max-width: 100%;
+}
+
+#second {
+    padding: 5%;
+}
+
+.border {
+    border-style: solid;
+    border-color: black;
+}
